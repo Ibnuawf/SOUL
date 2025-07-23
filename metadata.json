@@ -1,0 +1,6 @@
+{
+  "name": "Soul",
+  "description": "A personal, fully offline, encrypted diary that locks your daily answers for exactly one year, creating a deep conversation between your past and present self.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
